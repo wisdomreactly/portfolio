@@ -45,9 +45,3 @@ Kode ini dibuat oleh Webshala, proyek ini bersifat pengembangan pribadi.
 Proyek ini dilisensikan di bawah [MIT License](https://github.com/wisdomreactly/wisdomreactly/blob/main/LICENSE).
 
 ---
-
-## Instalasi  
-
-1. Clone repository ini ke perangkat Anda:  
-   ```bash  
-   git clone https://github.com/wisdomreactly/wisdomreactly.github.io
